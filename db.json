@@ -126,7 +126,8 @@
                 "Email": "whatever@cool.com",
                 "Name": "Mr. Cool",
                 "Recipients": [
-                    "whatever@cool.com"
+                    "whatever@cool.com",
+                    "tabali@tabali.nl"
                 ],
                 "Projects": [
                     {
@@ -148,8 +149,17 @@
                                             {
                                                 "TaskName": "Calculus",
                                                 "Completed": "True"
+                                            },
+                                            {
+                                                "TaskName": "Algabra",
+                                                "Completed": "True"
                                             }
                                         ]
+                                    },
+                                    {
+                                        "StartTimestamp": " ",
+                                        "EndTimestamp": " ",
+                                        "Tasks": []
                                     }
                                 ]
                             }
